@@ -1,6 +1,7 @@
 
 
-<img src="https://www.researchgate.net/publication/310666616/figure/fig2/AS:11431281118555374@1675792775695/Archimedes-spirals-drawn-by-a-normal-volunteer-and-patients-with-Parkinsons-disease.png" alt="Exemplo de espirais" width="1900" height=4>
+![Archimedes-spirals-drawn-by-a-normal-volunteer-and-patients-with-Parkinsons-disease](https://github.com/user-attachments/assets/ef2974f3-ebe0-4b34-80fe-7d1f217437f6)
+
 
 
 # Parkinson Classifier
