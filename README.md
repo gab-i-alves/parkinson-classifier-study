@@ -1,3 +1,8 @@
+
+
+<img src="https://www.researchgate.net/publication/310666616/figure/fig2/AS:11431281118555374@1675792775695/Archimedes-spirals-drawn-by-a-normal-volunteer-and-patients-with-Parkinsons-disease.png" alt="Exemplo de espirais" width="1900" height=4>
+
+
 # Parkinson Classifier
 
 Sistema para classificação de imagens spiral/wave em pacientes com ou sem Parkinson usando extração de características com ResNet50 e classificação com redes neurais (MLP).
