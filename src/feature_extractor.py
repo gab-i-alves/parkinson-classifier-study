@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 from tensorflow.keras.models import Model
 
-def get_feature_extractor() -> Model:
+def get_features_extractor() -> Model:
     """
     Retorna uma instância do modelo ResNet50 pré-treinado sem a camada de classificação final. \n
     Utiliza pooling global average para gerar vetores de características.
