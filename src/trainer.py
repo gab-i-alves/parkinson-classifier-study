@@ -13,6 +13,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
+
+# Esta função:
+# Treina: model.fit(X_train, y_train) = Aqui o MLP ajusta seus pesos internos para aprender a associar os vetores de treino com os rótulos corretos
+# Prevê: y_pred = model.predict(X_test) = Usa o modelo treinado para fazer previsões no conjunto de teste
+# Avalia: Compara as previsões (y_pred) com os rótulos verdadeiros (y_test) e calcula todas as métricas que estão na saída: o relatório de classificação, a matriz de confusão e a curva ROC
 def train_and_evaluate(model, X_train, y_train, X_test, y_test) -> pd.DataFrame:
 
     model.fit(X_train, y_train)
